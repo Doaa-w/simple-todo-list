@@ -1,7 +1,7 @@
 let input = document.querySelector(".input");
 let submit = document.querySelector(".add");
 let tasksDiv = document.querySelector(".tasks");
-let counter = docucument.querySelector(".counter")
+// let counter = docucument.querySelector(".counter")
 
 let arrayOfTasks = [];
 
